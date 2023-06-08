@@ -1,2 +1,3 @@
-# IMAGE-QUALITY-IMPROVING
-Hi, i have made a code that can improve the quality in real time using webcam, in that we have created a trackbar whose values can be adjusted in real time, we have worked on five fields:1.Brightness 2.Contrast 3.Gamma 4.CLAHE 5.White Balance
+Image quality enhancement
+Hello, I've written a piece of code that uses a webcam to improve image quality in real-time. I developed a trackbar whose values can be modified in real-time, and we focused on the following four fields:1. Brightness 2. Compare 3. Gamma 4. CLAHE
+
